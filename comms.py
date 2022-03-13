@@ -9,5 +9,5 @@ arduino.open()
 
 # this will send a signal to the arduino to turn the lights on for a few seconds
 def turn_on_lights():
-    arduino.write(struct.pack('>2B', int(1), int(0)))
+    arduino.write(struct.pack('>1B', int(7)))
 
