@@ -18,7 +18,7 @@ def flash_was_activated(flash_time: int):
 
 def is_white(r,g,b):
 
-    cutoff_brightness = 250
+    cutoff_brightness = 245
 
     if r > cutoff_brightness and g > cutoff_brightness and b > cutoff_brightness:
         return 1

@@ -7,7 +7,12 @@ If so, this is the project for you! All you need is a 1000 watt power supply, an
 ## Usage
 
 Run main.py and open CS:GO on your main monitor. 
-Plug Arduino into usb port. And upload arduino code. You may need to change COM to the usb port in comms.py
+Plug Arduino into usb port. And upload Arduino code. You may need to change COM to the usb port in comms.py
+
+![LEDs](./MEDIA/LEDs.jpg)
+![Electronics](./MEDIA/Electronics.jpg)
+
+[![Video](https://img.youtube.com/vi/J_J6DgB_2rw/0.jpg)](https://youtu.be/J_J6DgB_2rw)
 
 ### Materials
 
@@ -19,6 +24,6 @@ Plug Arduino into usb port. And upload arduino code. You may need to change COM 
 
 - 120v Relay
 
---
+----
 
 This project was made in a few hours just to have some fun
