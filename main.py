@@ -1,5 +1,6 @@
 import pyautogui
 import time
+import comms
 
 def flash_was_activated(flash_time: int):
 
@@ -29,11 +30,11 @@ def check_pixels_for_flash(img):
     :param img: The image item to check
     :return: True if all of the pixels were white
     """
-    # pixels_to_check = [(30, 30),
-    #                    (200, 200),
-    #                    (150, 150),
-    #                    ]
-    pixels_to_check = [(150,150)]
+    pixels_to_check = [(30, 30),
+                       (200, 200),
+                       (150, 150),
+                       ]
+    # pixels_to_check = [(150,150)]
 
     for pixel in pixels_to_check:
         pixel_colors = img.getpixel(pixel)
@@ -49,8 +50,9 @@ if __name__ == "__main__":
         img = pyautogui.screenshot(region=(0,0,300,300))
         if check_pixels_for_flash(img):
 #             ACTIVATE FLASHBANG
+            comms.turn_on_lights()
             print("Flashed")
-            time.sleep(3)
+            time.sleep(2)
 
-        time.sleep(0.1)
+        time.sleep(0.01)
 #         flash_was_activated(3)
