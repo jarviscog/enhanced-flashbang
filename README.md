@@ -14,6 +14,8 @@ Plug Arduino into usb port. And upload Arduino code. You may need to change COM 
 
 [![Video](https://img.youtube.com/vi/J_J6DgB_2rw/0.jpg)](https://youtu.be/J_J6DgB_2rw)
 
+https://youtu.be/J_J6DgB_2rw
+
 ### Materials
 
 - Power supply
