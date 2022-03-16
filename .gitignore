@@ -1,3 +1,4 @@
 .idea
 venv
 UNUSED_MEDIA
+__pycache__
