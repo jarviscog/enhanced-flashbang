@@ -2,7 +2,7 @@
 
 Have you ever thought that the flashbangs in Counter Strike: Global Offensive arn't realistic enough?
 
-If so, this is the project for you! All you need is a 1000 watt power supply, and a little bit of soldering skill. 
+If so, this is the project for you! All you need is a 1000 watt power supply, some bright lights and a little bit of soldering skill. 
 
 ## Usage
 
