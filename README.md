@@ -20,7 +20,7 @@ https://youtu.be/J_J6DgB_2rw
 
 - 24v Power supply
 
-- [100 watt LESs](https://www.aliexpress.com/item/32980694428.html?spm=a2g0o.order_list.0.0.21ef1802r6l3Vy)
+- [Ten 100 watt LEDs](https://www.aliexpress.com/item/32980694428.html?spm=a2g0o.order_list.0.0.21ef1802r6l3Vy)
 
 - [Arduino board](https://www.aliexpress.com/item/1005002966043359.html?spm=a2g0o.productlist.0.0.1fbd4c8e6hRNWf&algo_pvid=11397173-55ef-475e-84d7-9ea083c2d97a&aem_p4p_detail=202203141105343459591257385900047535111&algo_exp_id=11397173-55ef-475e-84d7-9ea083c2d97a-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000022995747732%22%7D&pdp_pi=-1%3B6.98%3B-1%3B-1%40salePrice%3BCAD%3Bsearch-mainSearch)
 
