@@ -1,8 +1,8 @@
 # Enhanced Flashbangs
 
 Enhanced Flashbangs adds an extra dimension to the flashbangs in Counter Strike. The software and hardware combine
-to enable the ultra-bright series of lights placed at the bottom of the computer monitor to become enabled whenever an 
-in-game flashbang has been used on your player character.
+to enable the ultra-bright lights at the bottom of the computer monitor whenever an 
+in-game flashbang has been used on your player.
 
 Here's a sample video of the device being used:
 
